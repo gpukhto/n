@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Blue Paint';
+    src: url('BluePaintRegular.eot');
+    src: url('BluePaintRegular.eot?#iefix') format('embedded-opentype'),
+        url('BluePaintRegular.woff2') format('woff2'),
+        url('BluePaintRegular.woff') format('woff'),
+        url('BluePaintRegular.ttf') format('truetype'),
+        url('BluePaintRegular.svg#BluePaintRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
